@@ -1,0 +1,4 @@
+I have made a project on simon game , which is made with html, css and javascript.
+And then i deolyed it on github;
+
+link of project : https://amit-semwal.github.io/Simon-Game/
